@@ -1,4 +1,3 @@
-<img alt="" src=https://lanyard.cnrad.dev/api/840541540203626516/>
 ```css
 !"Toka#4184@web:~/Bureau/Motel$ python3 Motel.py
 
