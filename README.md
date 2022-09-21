@@ -1,4 +1,4 @@
-<p
+<p href="https://discord.gg/bSdxTYYWgW" align="center">
 <img alt="" src=https://lanyard.cnrad.dev/api/935692104129192026/>
 </p>
 
